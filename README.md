@@ -40,7 +40,9 @@ I was lucky enough to have my first set of vintage blacks which is both smooth a
    </td>
   </tr>
 </table>
+For example, from left to right, they are clean, ok, rust and rust cleaned with rust cleaner.
 
+![alt text](https://i.imgur.com/515pPBg.jpeg "Logo Title Text 1")
 <table>
   <tr>
    <td>Smoothness
