@@ -4,7 +4,7 @@ Hello,
 
 I have a batch of vintage blacks to do a GB.
 
-Before the GB, some experiences from me working with vintage black switches. Are vintage black switches overrated or decently good? I would say both. First, the qualities of “vintage black” are not constant. There are ones which are super smooth and clean. There are also ones which are extremely scratch and dirty. Secondly, we are talking about personal preference again, you can’t just generally mark it as “good” or “bad”. Rather it should be “like it” or “dislike it”.
+Before the GB, some experiences from me working with vintage black switches. Are vintage black switches overrated or decently good? I would say both. First, the qualities of “vintage black” are not constant. There are ones which are super smooth and clean. There are also ones which are extremely scratchy and dirty. Secondly, we are talking about personal preference again, you can’t just generally mark it as “good” or “bad”. Rather it should be “like it” or “dislike it”.
 
 I was lucky enough to have my first set of vintage blacks which is both smooth and clean. However, along the way getting tens of sets of vintage blacks, I saw various conditions of them. Thus, I came up with a rating system to organize them. Rating was evaluated from two aspects, smoothness and cleanness.
 
